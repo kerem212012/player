@@ -8,6 +8,7 @@
 .vp-player{
     width: 800px;
     height: 600px;
+    box-shadow: 0 0 25px rgba(0,0,0,10);
 }
 .vp-screen{
     width: 100%;
