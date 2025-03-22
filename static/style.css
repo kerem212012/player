@@ -1,0 +1,15 @@
+.vp-buttons{
+    color:white;
+    background-color:black;
+    border-style:none;
+    solid;cursor:pointer;
+
+}
+.vp-player{
+    width: 800px;
+    height: 600px;
+}
+.vp-screen{
+    width: 100%;
+    height: 100%;
+}
