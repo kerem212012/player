@@ -1,6 +1,6 @@
 function createPlayer({
   elementId,
-  src='videos/video_1.mp4'
+  src='../videos/video_1.mp4'
 }){
   const player = Playable.create({
     fillAllSpace: true,

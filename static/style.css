@@ -3,6 +3,7 @@
     background-color:black;
     border-style:none;
     cursor:pointer;
+    margin: 5px;
     font-size:20px
 }
 .vp-player{
@@ -13,5 +14,5 @@
     flex-direction: column;
 }
 .vp-screen{
-    flex-grow: 1;
+    flex-grow: 2;
 }
